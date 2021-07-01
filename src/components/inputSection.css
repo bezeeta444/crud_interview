@@ -1,0 +1,16 @@
+
+  .formField{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  .myForm{
+    width: 100%;
+    background-color: #dfe6e9;
+    border-radius: 5px;
+    padding: 20px;
+  }
